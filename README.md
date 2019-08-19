@@ -12,7 +12,7 @@
 [Skills ](#skills) | 
 [Experience ](#experience) | 
 [Education ](#education) | 
-[About me ](#about-me)
+[About me ](#about-me) |
 
 </div>
 
@@ -89,6 +89,9 @@ Teamwork is one of the main ways to work in Architecture, almost all the project
 **Southstudio Architects** (October 2015 - March 2016)   
 *Architect Assistant* 
 
+Plaese, see below my previous personal and professional portfolios
+* https://issuu.com/luigipalermo/docs/luigi_palermo_-_portfolio_-_a3_-_nl
+* https://issuu.com/luigipalermo/docs/luigi_palermo_-_professional_portfo
 
 ## About me
 
