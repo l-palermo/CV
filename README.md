@@ -18,12 +18,12 @@
 </div>
 
 ## Projects
-| Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed | View the code |
-|--|--|--|--|--|---|
-|<a href="https://acebook-data-thieves.herokuapp.com/">Acebook on Rails</a>| Group project. A replica of Facebook that is linked to a database and can store accounts.<br><a href='https://github.com/l-palermo/Acebook---Data-Thieves'>Github_repository</a><br>Pull requests: <a href='https://github.com/l-palermo/Acebook---Data-Thieves/commit/28612bf4b53a4338a42af24cb5abd721871de35b'>Modeling_user</a> - <a href='https://github.com/l-palermo/Acebook---Data-Thieves/commit/9a16331285eeee0cfbe472b278b8c3f55da3754a'>Show_single_post</a> - <a href='https://github.com/l-palermo/Acebook---Data-Thieves/commit/8ba27ad23ac5baf1b535fddc24f419579765ca9e'>Delete post</a>| 2 weeks | Ruby on Rails, HTML, CSSn| Capybara, RSpec, Selenium-web driver, Travis, CodeClimate, Heroku |
-|<a href="https://it-is-always-soup.firebaseapp.com/">It Is Always Soup</a> | The final team project for Makers. A tool to help a user find recipes from leftovers in the fridge. Our goal - make sure it's not always soup | 2 weeks | React, React-Bootstrap |  Jest, Enzyme, Puppeteer, Firebase | <a href='https://github.com/ajosephides/i.i.a.s'>Github_repository</a><br>Pull requests:<br><a href='https://github.com/ajosephides/i.i.a.s/pull/5/files'>-Single_input_box</a><br><a href='https://github.com/ajosephides/i.i.a.s/pull/6/files'>-Ingretients_list</a><br><a href='https://github.com/ajosephides/i.i.a.s/pull/11'>-Styling</a> |
-| Tech test | This is a practice session to showcase the best code I can when there is minimal time pressure. | 2 days | Ruby | RSpec | <a href="https://github.com/l-palermo/Bank-tech-test">Github_repository</a> |
-| RPS Challenge | This is a web app to play the famous hand game RPS on the web! | 2 days | Ruby, HTML, CSS, Sinatra | Capybara, RSpec, Simplecov | <a href="https://github.com/l-palermo/Bank-tech-test">Github_repository</a> |
+| Title | Description | Development Timeframe | Technologies, Test Suites, CIs, CDs | View the code |
+|--|--|--|--|--|
+|<a href="https://acebook-data-thieves.herokuapp.com/">Acebook on Rails</a>| Group project. A replica of Facebook that is linked to a database and can store accounts. | 2 weeks | Ruby on Rails, HTML, CSS<br>Capybara, RSpec, Selenium-web driver, Travis, CodeClimate, Heroku | <a href='https://github.com/l-palermo/Acebook---Data-Thieves'>Github</a> |
+|<a href="https://it-is-always-soup.firebaseapp.com/">It Is Always Soup</a>| The final team project for Makers. A tool to help a user find recipes from leftovers in the fridge. Our goal - make sure it's not always soup | 1.5 weeks | React, React-Bootstrap<br>Jest, Enzyme, Puppeteer, Firebase | <a href='https://github.com/ajosephides/i.i.a.s'>Github</a>|
+| Tech test | This is a practice session to showcase the best code I can when there is minimal time pressure. | 2 days | Ruby<br>RSpec | <a href="https://github.com/l-palermo/Bank-tech-test">Github</a>|
+| RPS Challenge | This is a web app to play the famous hand game RPS on the web! | 2 days | Ruby, HTML, CSS, Sinatra<br>Capybara, RSpec, Simplecov | <a href="https://github.com/l-palermo/Bank-tech-test">Github</a>|
 
 ## About me
 
