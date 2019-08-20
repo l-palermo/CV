@@ -18,12 +18,12 @@
 </div>
 
 ## Projects
-| Title | Description | Development Timeframe | Technologies, Test Suites, CIs, CDs | View the code |
+| Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
 |--|--|--|--|--|
-|<a href="https://acebook-data-thieves.herokuapp.com/">Acebook on Rails</a>| Group project. A replica of Facebook that is linked to a database and can store accounts. | 2 weeks | Ruby on Rails, HTML, CSS<br>Capybara, RSpec, Selenium-web driver, Travis, CodeClimate, Heroku | <a href='https://github.com/l-palermo/Acebook---Data-Thieves'>Github</a> |
-|<a href="https://it-is-always-soup.firebaseapp.com/">It Is Always Soup</a>| The final team project for Makers. A tool to help a user find recipes from leftovers in the fridge. Our goal - make sure it's not always soup | 1.5 weeks | React, React-Bootstrap<br>Jest, Enzyme, Puppeteer, Firebase | <a href='https://github.com/ajosephides/i.i.a.s'>Github</a>|
-| Tech test | This is a practice session to showcase the best code I can when there is minimal time pressure. | 2 days | Ruby<br>RSpec | <a href="https://github.com/l-palermo/Bank-tech-test">Github</a>|
-| RPS Challenge | This is a web app to play the famous hand game RPS on the web! | 2 days | Ruby, HTML, CSS, Sinatra<br>Capybara, RSpec, Simplecov | <a href="https://github.com/l-palermo/Bank-tech-test">Github</a>|
+|<a href="https://acebook-data-thieves.herokuapp.com/">Acebook on Rails</a> | Group project. A replica of Facebook that is linked to a database and can store accounts. | 2 weeks | Ruby on Rails, HTML, CSSn| Capybara, RSpec, Selenium-web driver, Travis, CodeClimate, Heroku |
+|<a href="https://it-is-always-soup.firebaseapp.com/">It Is Always Soup</a> | The final team project for Makers. A tool to help a user find recipes from leftovers in the fridge. Our goal - make sure it's not always soup | 2 weeks | React, React-Bootstrap |  Jest, Enzyme, Puppeteer, Firebase |
+|<a href="https://github.com/l-palermo/Bank-tech-test">Tech test</a> | This is a practice session to showcase the best code I can when there is minimal time pressure. | 2 days | Ruby | RSpec |
+|<a href="https://github.com/l-palermo/rps-challenge">RPS Challenge</a> | This is a web app to play the famous hand game RPS on the web! <br> | 2 days | Ruby, HTML, CSS, Sinatra | Capybara, RSpec, Simplecov |
 
 ## About me
 
@@ -78,7 +78,7 @@ http://lanternmaidenhead.com/enlightened-design-accommodation/
 *Architect Assistant* 
 
 Plaese, see below my previous personal and professional portfolios
-* https://www.yumpu.com/xx/document/read/62787227/luigi-palermo-portfolio-a3-nl-pdf
+* https://issuu.com/luigipalermo/docs/luigi_palermo_-_portfolio_-_a3_-_nl
 * https://issuu.com/luigipalermo/docs/luigi_palermo_-_professional_portfo
 
 ## Education
