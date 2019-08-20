@@ -78,8 +78,7 @@ http://lanternmaidenhead.com/enlightened-design-accommodation/
 *Architect Assistant* 
 
 Plaese, see below my previous personal and professional portfolios
-* https://issuu.com/luigipalermo/docs/luigi_palermo_-_portfolio_-_a3_-_nl
-* https://issuu.com/luigipalermo/docs/luigi_palermo_-_professional_portfo
+* https://www.yumpu.com/xx/document/read/62787227/luigi-palermo-portfolio-a3-nl-pdf
 
 ## Education
 
