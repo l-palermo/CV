@@ -1,10 +1,8 @@
 <h1 align="center">Luigi Palermo</h1>
 
 <div align="center">
-
-<a  href="https://www.linkedin.com/in/luigi-palermo-b09733a0/"><img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
-<a  href="https://github.com/l-palermo"><img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png" alt="github" hspace="50" height="42" width="42"></a></p>
-
+<a  href="https://www.linkedin.com/in/luigi-palermo-b09733a0/"><img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+<a  href="https://github.com/l-palermo"><img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png" alt="github" hspace="50" height="42" width="42"></a>
 </div>
 
 <div align="center">
@@ -17,6 +15,13 @@
 
 </div>
 
+<div align='center'>
+<a href="https://sourcerer.io/l-palermo"><img src="https://img.shields.io/badge/JavaScript-226%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/l-palermo"><img src="https://img.shields.io/badge/HTML-220%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/l-palermo"><img src="https://img.shields.io/badge/CSS-213%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/l-palermo"><img src="https://img.shields.io/badge/Ruby-129%20commits-orange.svg" alt=""></a>
+</div>
+
 ## Projects
 | Title | Description | Development Timeframe | Technologies | Test Suites CIs/CDs | The code |
 |--|--|--|--|--|--|
@@ -27,7 +32,7 @@
 
 ## About me
 
-I am a Software Developer who has just graduated at Makers Academy - a 12-week software development Bootcamp.
+I am a Software Developer who has just graduated at Makers Academy  - 12-week software development Bootcamp.
 I previously worked as a fully qualified Architect for different firms in London and Italy.
 
 During my studies both at Makers and at the University of Architecture I have always been fully focused to achieve the best result.
@@ -47,7 +52,7 @@ Hard-working never scared me and this career change is a clear example of it.
 
 #### Determination
 
-I am competitive with myself, always willing to challenge my personal limits and driven to improve. 
+I am competitive with myself, always willing to challenge my personal limits and driven by improvement. 
 Self-growth is a very important part of my personality. Nothing is impossible, with time and commitment everything can be achieved.
 
 #### Problem Solving
@@ -68,7 +73,7 @@ I have succeeded in all the aspect of the task, sometimes making mistakes but al
 
 Please see below link to the land developer website with a fast-forward video of some moment of the construction.
 
-http://lanternmaidenhead.com/enlightened-design-accommodation/
+* http://lanternmaidenhead.com/bright-thinking-gallery/
 
 ## Experience
 
@@ -79,17 +84,19 @@ http://lanternmaidenhead.com/enlightened-design-accommodation/
 
 Plaese, see below my previous personal and professional portfolios
 * https://www.yumpu.com/xx/document/read/62787227/luigi-palermo-portfolio-a3-nl-pdf
+* https://www.yumpu.com/en/document/read/62788531/luigi-palermo-professional-portfoio-a3
 
 ## Education
 
 #### Makers Academy (29.04.2019 - 16.08.2019)
 
 * Curious and passionate about code. 
-Learning about technologies and new languages is always exciting, this is why I embraced fully the idea of learning a new  language (ReactJs for our final project), building a progressive web app that allows the user to find amazing recipes to make with fridge leftover
+Learning about technologies and new languages is always exciting, this is why I embraced fully the idea of learning a new language (ReactJs for our final project), building a progressive web app that allows the user to find amazing recipes to make with fridge leftover.
+
 * Fast, independent learner. At Makers, we almost learned everything on our own, learn independently is one of the main goals of the Bootcamp. In my previous job, I had to learn new software independently and it has always being a success.
 
 * Great collaborator 
-Teamwork is one of the main ways to work in Architecture, almost all the project are made in the team. As part of the team, good communication is always important, meeting the team member expectation and  
+Teamwork is one of the main ways to work in Architecture, almost all the project are made in the team. As part of the team, good communication is always important, meeting the team member expectation and deadline to allow a smooth workflow through the all working process.
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
