@@ -32,23 +32,20 @@
 
 ## About me
 
-I am a Software Developer who has just graduated at Makers Academy  - 12-week software development Bootcamp.
-I previously worked as a fully qualified Architect for different firms in London and Italy.
+I am a Software Developer who has just graduated at Makers Academy - 12-week software development Bootcamp. I previously worked as a fully qualified Architect for different firms in London and Italy.
 
-During my studies both at Makers and at the University of Architecture I have always been fully focused to achieve the best result.
+During my studies, both at Makers and at the University of Architecture, I have always been fully focused to achieve the best result.
+My interest in tech emerged from the beginning of my Architectural career. I always looked for new software and functionality for drawing, modelling retouching pictures.
 
-My interest in tech was emerging from the beginning of my Architectural career, always seeking for new software and functionality for drawing, modelling retouching pictures. 
+As an architect, my goal was to create spaces where people feel comfortable and happy, building the background of their life. It is fascinating seeing how tech is embedded in people's lives and how powerful it is in its ability to change the way we live.
 
-The main wish of an Architect is to create spaces where people feel comfortable and happy building the background of their life. It is fascinating seeing how tech is embedded in people's lives and how powerful it is in its ability to change the way we live.
-
-I have so decided to change because I want to be part of the tech-world that is changing the way we live and shape the world, creating something that not only the client uses but everyone can enjoy and interact with it.
+I have decided to change because I want to be part of the tech-world that is changing the way we live and shape the world, creating something that not only the client uses but everyone can enjoy and interact with.
 
 ## Skills
 
 #### Hard worker
 
-In architecture hard working is a must, long hours and painful deadline are at a daily order and clients who change their mind at the last minute when everything is ready to go. 
-Hard-working never scared me and this career change is a clear example of it.
+As an Architect hard work is a must. Long hours and deadlines are at a daily order as well as clients who change their mind at the last minute. Hard-work never scared me and has given me confidence to change career while bringing the same dedication to a new industry.
 
 #### Determination
 
@@ -57,19 +54,17 @@ Self-growth is a very important part of my personality. Nothing is impossible, w
 
 #### Problem Solving
 
-The work of an Architect is mostly based on solving problems through the design both technical and conceptual.
-To approach a problem I take time to carefully thinking what's the expected outcome, what is the logic behind the problem, what are the steps to achieve the expected result, researching through accredited documentation and apply the result of the research to the code and debug when necessary.
-
-The continuous process of asking the why of the things and how I can overcome the issue helps in motivating the choices we make, being more efficient and making it easy to involve everyone in the team with the desired outcome and understanding further possible bags whether they occur.
+The work of an Architect is mostly based on solving problems through design, both technical and conceptual.
+To approach a problem, I take time to consider the expected outcome, the logic behind the problem, the steps to get there and research appropriately.
 
 #### Quick learner
 
 I consider myself a quick learner. It doesn't take me long to learn new concepts or methods and applying them in real-life situations. 
-At Makers, we learn something new every day and sometimes this can be overwhelming but in only 4 months we build from zero a lot of knowledge in programming languages, agile methodology self-learning, TDD and many other topics. 
+At Makers, we learn something new every day. In four months, we've built knowledge in programming languages, Agile methodology self-learning, TDD and many other topics. 
 
-When I Worked at Aros Architects, I have been instructed to be project architect of a newly built office building in Maidenhead. I didn't have any experience in site works before but the director an the manager I worked with felt confident in let me leading the project. 
-Everything was new, site meeting, client/contractor relationship (legislation included) in addition to all the technical aspects that always job-specific and require careful consideration. 
-I have succeeded in all the aspect of the task, sometimes making mistakes but always learning from them, today the building is there.
+When I Worked at Aros Architects, I was instructed to be project architect of a newly built office building in Maidenhead. I didn't have any experience in site works before but the director I worked with felt confident in letting me lead the project. 
+Everything was new including site meetings, client/contractor relationship and all the technical aspects.
+I have succeeded in every aspect, learned from any mistakes and the building is standing in Maidenhead today.
 
 Please see below link to the land developer website with a fast-forward video of some moment of the construction.
 
@@ -82,7 +77,7 @@ Please see below link to the land developer website with a fast-forward video of
 **Southstudio Architects** (October 2015 - March 2016)   
 *Architect Assistant* 
 
-Plaese, see below my previous personal and professional portfolios
+Please, see below my previous personal and professional portfolios
 * https://www.yumpu.com/xx/document/read/62787227/luigi-palermo-portfolio-a3-nl-pdf
 * https://www.yumpu.com/en/document/read/62788531/luigi-palermo-professional-portfoio-a3
 
@@ -91,9 +86,7 @@ Plaese, see below my previous personal and professional portfolios
 #### Makers Academy (29.04.2019 - 16.08.2019)
 
 * Curious and passionate about code. 
-Learning about technologies and new languages is always exciting, this is why I embraced fully the idea of learning a new language (ReactJs for our final project), building a progressive web app that allows the user to find amazing recipes to make with fridge leftover.
-
-* Fast, independent learner. At Makers, we almost learned everything on our own, learn independently is one of the main goals of the Bootcamp. In my previous job, I had to learn new software independently and it has always being a success.
+Learning about technologies and new languages is always exciting, this is why I embraced fully the idea of learning a new language (ReactJs for our final project), building a progressive web app that allows the user to find amazing recipes to make with fridge leftovers.
 
 * Great collaborator 
 Teamwork is one of the main ways to work in Architecture, almost all the project are made in the team. As part of the team, good communication is always important, meeting the team member expectation and deadline to allow a smooth workflow through the all working process.
@@ -101,14 +94,10 @@ Teamwork is one of the main ways to work in Architecture, almost all the project
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript, React
-- RSpec, Jasmine, Capybara, Jest, Puppetteer.
+- RSpec, Jasmine, Capybara, Jest, Puppeteer
 
 #### University of Cagliari / School of Architecture (September 2006 - July 2012 )
 
 - Architecture, design & technology in a rural and urban environment, intervention on an existing, newly built and listed building.
 - 110/110
-- During my studies, I have been selected to participate in various workshops and seminars directed by visiting professors as Hans Kollhoff, 
-  Walter Angonese, Eduardo Souto Moura and Alberto Campo Baeza. I took part in some architectural competition, 
-  developing good competence in working independently.
-- I have also developed a strong interested in graphic design.
 - Architect Part III Qualification. ARB registered 090290J
