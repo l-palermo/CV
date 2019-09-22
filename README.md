@@ -86,7 +86,7 @@ Please, see below my previous personal and professional portfolios
 #### Makers Academy (29.04.2019 - 16.08.2019)
 
 * Curious and passionate about code<br>
-Learning about technologies and new languages is always exciting, this is why I embraced fully the idea of learning a new language (ReactJs for our final project), building a progressive web app that allows the user to find amazing recipes to make with fridge leftovers.
+Learning about technologies and new languages is always exciting, this is why I embraced fully the idea of learning a new language (React) for our final project, building a progressive web app that allows the user to find amazing recipes to make with fridge leftovers.
 
 * Great collaborator <br>
 Teamwork is one of the main ways to work in Architecture, almost all the project are made in the team. As part of the team, good communication is always important, meeting the team member expectation and deadline to allow a smooth workflow through the all working process.
