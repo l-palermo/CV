@@ -26,7 +26,7 @@
 | Title | Description | Development Timeframe | Technologies | Test Suites CIs/CDs | The code |
 |--|--|--|--|--|--|
 |<a href="https://it-is-always-soup.firebaseapp.com/">It Is Always Soup</a> | The final team project for Makers. A tool to help a user find recipes from leftovers in the fridge. Our goal - make sure it's not always soup | 2 weeks | React, React-Bootstrap |  Jest, Enzyme, Puppeteer, Firebase | <a href='https://github.com/ajosephides/i.i.a.s'>Github</a>|
-|<a href="https://acebook-data-thieves.herokuapp.com/">Acebook on Rails</a> | Team project. A replica of Facebook that is linked to a database and can store accounts | 2 weeks | Ruby on Rails, HTML, CSSn| Capybara, RSpec, Travis, CodeClimate, Heroku | <a href='https://github.com/l-palermo/Acebook---Data-Thieves'>Github</a>|
+|<a href="https://acebook-data-thieves.herokuapp.com/">Acebook on Rails</a> | Team project. A replica of Facebook that is linked to a database and can store accounts | 2 weeks | Ruby on Rails, PostgreSQL, HTML, CSS| Capybara, RSpec, Travis, CodeClimate, Heroku | <a href='https://github.com/l-palermo/Acebook---Data-Thieves'>Github</a>|
 | Bank Tech test | This is a practice session to showcase the best code I can when there is minimal time pressure. | 2 days | Ruby | RSpec | <a href="https://github.com/l-palermo/Bank-tech-test">Github</a> |
 |<a href="https://rps-g.herokuapp.com">RPS Challenge</a>| This is a web app to play the famous hand game RPS on the web! <br> | 2 days | Ruby, HTML, CSS, Sinatra | Capybara, RSpec, Simplecov | <a href="https://github.com/l-palermo/rps-challenge">Github</a>|
 
@@ -93,7 +93,7 @@ Teamwork is one of the main ways to work in Architecture, almost all the project
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript, React
+- Ruby, Rails, JavaScript, React, PostgreSQL
 - RSpec, Jasmine, Capybara, Jest, Puppeteer
 
 #### University of Cagliari / School of Architecture (September 2006 - July 2012 )
