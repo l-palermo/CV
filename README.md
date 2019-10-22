@@ -28,6 +28,7 @@
 |<a href="https://it-is-always-soup.firebaseapp.com/">It Is Always Soup</a> | The final team project for Makers. A tool to help a user find recipes from leftovers in the fridge. Our goal - make sure it's not always soup | 2 weeks | React, React-Bootstrap |  Jest, Enzyme, Puppeteer, Firebase | <a href='https://github.com/ajosephides/i.i.a.s'>Github</a>|
 |<a href="https://acebook-data-thieves.herokuapp.com/">Acebook on Rails</a> | Team project. A replica of Facebook that is linked to a database and can store accounts | 2 weeks | Ruby on Rails, ActiveRecord, PostgreSQL, HTML, CSS| Capybara, RSpec, Travis, CodeClimate, Heroku | <a href='https://github.com/l-palermo/Acebook---Data-Thieves'>Github</a>|
 | Bank Tech test | This is a practice session to showcase the best code I can when there is minimal time pressure. | 2 days | Ruby | RSpec | <a href="https://github.com/l-palermo/Bank-tech-test">Github</a> |
+|GitHub Tech Test| A tech test I recently made in React. It allows users to enter an arbitrary Github username and be presented with the best guess of the Github user's favourite programming language. <br> | 2 days | React.JS | Jest, Puppeteer, Enzyme, ESLint | <a href="https://github.com/l-palermo/github_tech_test">Github</a>|
 |<a href="https://rps-g.herokuapp.com">RPS Challenge</a>| This is a web app to play the famous hand game RPS on the web! <br> | 2 days | Ruby, HTML, CSS, Sinatra | Capybara, RSpec, Simplecov | <a href="https://github.com/l-palermo/rps-challenge">Github</a>|
 
 ## About me
@@ -43,20 +44,6 @@ I have decided to change because I want to be part of the tech-world that is cha
 
 ## Skills
 
-#### Hard worker
-
-As an Architect hard work is a must. Long hours and deadlines are at a daily order as well as clients who change their mind at the last minute. Hard-work never scared me and has given me confidence to change career while bringing the same dedication to a new industry.
-
-#### Determination
-
-I am competitive with myself, always willing to challenge my personal limits and driven by improvement. 
-Self-growth is a very important part of my personality. Nothing is impossible, with time and commitment everything can be achieved.
-
-#### Problem Solving
-
-The work of an Architect is mostly based on solving problems through design, both technical and conceptual.
-To approach a problem, I take time to consider the expected outcome, the logic behind the problem, the steps to get there and research appropriately.
-
 #### Quick learner
 
 I consider myself a quick learner. It doesn't take me long to learn new concepts or methods and applying them in real-life situations. 
@@ -69,6 +56,20 @@ I have succeeded in every aspect, learned from any mistakes and the building is 
 Please see below link to the land developer website with a fast-forward video of some moment of the construction.
 
 * http://lanternmaidenhead.com/bright-thinking-gallery/
+
+#### Problem Solving
+
+The work of an Architect is mostly based on solving problems through design, both technical and conceptual.
+To approach a problem, I take time to consider the expected outcome, the logic behind the problem, the steps to get there and research appropriately.
+
+#### Hard worker
+
+As an Architect hard work is a must. Long hours and deadlines are at a daily order as well as clients who change their mind at the last minute. Hard-work never scared me and has given me confidence to change career while bringing the same dedication to a new industry.
+
+#### Determination
+
+I am competitive with myself, always willing to challenge my personal limits and driven by improvement. 
+Self-growth is a very important part of my personality. Nothing is impossible, with time and commitment everything can be achieved.
 
 ## Experience
 
@@ -93,8 +94,8 @@ Teamwork is one of the main ways to work in Architecture, almost all the project
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript, React, PostgreSQL
-- RSpec, Jasmine, Capybara, Jest, Puppeteer
+- Ruby, JavaScript, Java, React, Ruby On Rails, PostgreSQL
+- RSpec, Jasmine, Capybara, Jest, Puppeteer, JUnit
 
 #### University of Cagliari / School of Architecture (September 2006 - July 2012 )
 
