@@ -20,6 +20,7 @@
 <a href="https://sourcerer.io/l-palermo"><img src="https://img.shields.io/badge/HTML-220%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/l-palermo"><img src="https://img.shields.io/badge/CSS-213%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/l-palermo"><img src="https://img.shields.io/badge/Ruby-129%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/l-palermo"><img src="https://img.shields.io/badge/Java-126%20commits-orange.svg" alt=""></a>
 </div>
 
 ## Projects
