@@ -95,7 +95,7 @@ Responsibilities:
 * Take ownership of my learning process, time-boxing tasks to increase my learning. 
 * Using Agile methodologies to work effectively in a team, using pair programming, XP values, Daily Standups and Sprint planning. 
 * Giving and receiving feedback using code reviews and open/respectful communication.
-* Understand project requirements, create user stories, define MVP's features, breake features in smaller tasks to easily accomplish them.
+* Understand project requirements, create user stories, define MVP's features, break features in smaller tasks to easily accomplish them.
 * Collaborate with the other team members using GitHub as version control tools and using CI/CD to reduce integration risk.
 * Coding following principles like TDD and S.O.L.I.D of OOP to create clear, simple code and well-tested applications.
 
