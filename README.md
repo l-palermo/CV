@@ -34,50 +34,51 @@
 
 ## About me
 
-I am a Software Developer who has just graduated at Makers Academy - 12-week software development Bootcamp. I previously worked as a fully qualified Architect for different firms in London and Italy.
+I am a Software Developer who has graduated at Makers Academy - 12 weeks software development Bootcamp. I previously worked as a fully qualified Architect for different firms in London and Italy.
 
-During my studies, both at Makers and at the University of Architecture, I have always been fully focused to achieve the best result.
-My interest in tech emerged from the beginning of my Architectural career. I always looked for new software and functionality for drawing, modelling retouching pictures.
+After years studying and working in Architecture, I felt the need to work on something that has a more direct impact on the user life. The way the user experience the space is the more important part of designing a building but I felt the desire to go deeper and create products that help to solve peoples doing their work, that empowers them, proving better e more reliable services. 
 
-As an architect, my goal was to create spaces where people feel comfortable and happy, building the background of their life. It is fascinating seeing how tech is embedded in people's lives and how powerful it is in its ability to change the way we live.
-
-I have decided to change because I want to be part of the tech-world that is changing the way we live and shape the world, creating something that not only the client uses but everyone can enjoy and interact with.
+I have always been passionate about tech and the way it is changing our life really excites me. So I started coding and immediately got a lot of satisfaction from it. Logic, quick feedback, stack trace to find my way through the bug and infinite possibilities of what I could have created for the users with it. All these convinced me that tech is the way to go to help peoples build a better world and realise my wish.
 
 ## Skills
 
 #### Quick learner
 
-I consider myself a quick learner. It doesn't take me long to learn new concepts or methods and applying them in real-life situations. 
-At Makers, we learn something new every day. In four months, we've built knowledge in programming languages, Agile methodology self-learning, TDD and many other topics. 
+I learn and apply new concepts quickly and effectively to real life situation.
 
-When I Worked at Aros Architects, I was instructed to be project architect of a newly built office building in Maidenhead. I didn't have any experience in site works before but the director I worked with felt confident in letting me lead the project. 
-Everything was new including site meetings, client/contractor relationship and all the technical aspects.
-I have succeeded in every aspect, learned from any mistakes and the building is standing in Maidenhead today.
+When I worked at Aros Architects, I was instructed to be the project architect of a newly built 3 storey office building. I didn’t have any experience in designing for construction but the director was confident in me leading the project. I have succeeded in every aspect, learned from my mistakes and the building is now standing in Maidenhead.
 
-Please see below link to the land developer website with a fast-forward video of some moment of the construction.
+Please see below link to the land developer website.
 
 * http://lanternmaidenhead.com/bright-thinking-gallery/
 
+#### Great collaborator  
+
+Teamwork is an essential part of working in Architecture. Every time I join a new team, I listen actively other team members' expectations, ideas and what they need to accomplish to give them better support when needed. I take ownership of my tasks and complete them in time and participate actively to help the team reaching its goals. I always value open and friendly communication.
+
+
 #### Problem Solving
 
-The work of an Architect is mostly based on solving problems through design, both technical and conceptual.
-To approach a problem, I take time to consider the expected outcome, the logic behind the problem, the steps to get there and research appropriately.
+The work of an Architect is mostly based on solving problems through design, both technical and conceptual.  To approach a problem, I break it down to smaller part and analyse its key factors, make the appropriate research, then built a solution and validate it via a test.
 
-#### Hard worker
+#### Reliable and responsible
 
-As an Architect hard work is a must. Long hours and deadlines are at a daily order as well as clients who change their mind at the last minute. Hard-work never scared me and has given me confidence to change career while bringing the same dedication to a new industry.
+Both at work and at University I always focused in completing my tasks in time without the need of supervision. 
+At Aros, I have always been trusted in attending metting with clients and other consultants indipendently. Part of my tasks were understanding clients requirements, effectively comunicating risks, coordinating structural, mechanical and architectural design with other consultants to achieve the client objectives. Active listening, clear comunication and deliver in time were key factors to allow everyone to do their work. 
 
 #### Determination
 
-I am competitive with myself, always willing to challenge my personal limits and driven by improvement. 
 Self-growth is a very important part of my personality. Nothing is impossible, with time and commitment everything can be achieved.
 
 ## Experience
 
 **Aros Architects** (October 2016 - March 2019)    
-*Project Architect*  
+*Project Architect*
+Leading projects through all phases, from feasibility study to construction in accordance with a variety of regulation and standards.Wide use of BIM ( Building Information Modelling ) from early stages to construction. Active communication with clients, project manager, consultants and specialist designer to achieve high-quality design’s objectives.
+
 **Southstudio Architects** (October 2015 - March 2016)   
 *Architect Assistant* 
+Provide accurate and timely design services. Manage priorities and work productively to deliver on time. Work independently. Produce highly accurate drawings, 3D models, CGI images for clients. Demonstrate excellent initiative, teamwork, and problem-solving skills.
 
 Please, see below my previous personal and professional portfolios
 * https://www.yumpu.com/xx/document/read/62787227/luigi-palermo-portfolio-a3-nl-pdf
@@ -87,19 +88,18 @@ Please, see below my previous personal and professional portfolios
 
 #### Makers Academy (29.04.2019 - 16.08.2019)
 
-* Curious and passionate about code<br>
-Learning about technologies and new languages is always exciting, this is why I embraced fully the idea of learning a new language (React) for our final project, building a progressive web app that allows the user to find amazing recipes to make with fridge leftovers.
+At Makers, I have studied computer science and metaprogramming principles along with hands-on coding, working on mobile, web and desktop applications using Ruby and Javascript.
+Responsibilities: 
+* Take ownership of my learning process, time-boxing tasks to increase my learning. 
+* Using Agile methodologies to work effectively in a team, using pair programming, XP values, Daily Standups and Sprint planning. 
+* Giving and receiving feedback using code reviews and open/respectful communication.
+* Understand project requirements, create user stories, define MVP's features, breake features in smaller tasks to easily accomplish them.
+* Collaborate with the other team members using GitHub as version control tools and using CI/CD to reduce integration risk.
+* Coding following principles like TDD and S.O.L.I.D of OOP to create clear, simple code and well-tested applications.
 
-* Great collaborator <br>
-Teamwork is one of the main ways to work in Architecture, almost all the project are made in the team. As part of the team, good communication is always important, meeting the team member expectation and deadline to allow a smooth workflow through the all working process.
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, JavaScript, Java, React, Ruby On Rails, PostgreSQL
-- RSpec, Jasmine, Capybara, Jest, Puppeteer, JUnit
+#### University of Cagliari / School of Architecture ( 09.2006 - 07.2012 )
 
-#### University of Cagliari / School of Architecture (September 2006 - July 2012 )
-
-- Architecture, design & technology in a rural and urban environment, intervention on an existing, newly built and listed building.
+- Architecture, design & technology in a rural and urban environment, rennovations of existing building, newly built and listed building.
 - 110/110
 - Architect Part III Qualification. ARB registered 090290J
