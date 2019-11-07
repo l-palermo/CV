@@ -10,7 +10,7 @@
 [Projects ](#projects) | 
 [About me ](#about-me) |
 [Skills ](#skills) | 
-[Experience ](#experience) | 
+[Work Experience ](#experience) | 
 [Education ](#education)
 
 </div>
@@ -70,7 +70,7 @@ At Aros, I have always been trusted in attending metting with clients and other 
 
 Self-growth is a very important part of my personality. Nothing is impossible, with time and commitment everything can be achieved.
 
-## Experience
+## Work Experience
 
 **Aros Architects** (October 2016 - March 2019)    
 *Project Architect*
@@ -89,6 +89,8 @@ Please, see below my previous personal and professional portfolios
 #### Makers Academy (29.04.2019 - 16.08.2019)
 
 At Makers, I have studied computer science and metaprogramming principles along with hands-on coding, working on mobile, web and desktop applications using Ruby and Javascript.
+
+
 Responsibilities: 
 * Take ownership of my learning process, time-boxing tasks to increase my learning. 
 * Using Agile methodologies to work effectively in a team, using pair programming, XP values, Daily Standups and Sprint planning. 
@@ -101,5 +103,10 @@ Responsibilities:
 #### University of Cagliari / School of Architecture ( 09.2006 - 07.2012 )
 
 - Architecture, design & technology in a rural and urban environment, rennovations of existing building, newly built and listed building.
-- 110/110
+- Grade: 110/110
 - Architect Part III Qualification. ARB registered 090290J
+
+## Tech
+
+* **Java**  •  **JavaScript**  •  **React**  •  **Node.JS**  •  **Ruby**  •  **Rails**  •  **PostgreSQL**
+* **JUnit**  •  **Mockito**  •  **RSpec**  •  **Jasmine**  •  **Capybara**  •  **Jest**  •  **Puppeteer**
