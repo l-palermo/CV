@@ -44,7 +44,7 @@ I have always been passionate about tech and the way it is changing our life rea
 
 #### Quick learner
 
-I learn and apply new concepts quickly and effectively to real life situation.
+I learn and apply new concepts quickly and effectively in real-life situations.
 
 When I worked at Aros Architects, I was instructed to be the project architect of a newly built 3 storey office building. I didn’t have any experience in designing for construction but the director was confident in me leading the project. I have succeeded in every aspect, learned from my mistakes and the building is now standing in Maidenhead.
 
@@ -59,16 +59,16 @@ Teamwork is an essential part of working in Architecture. Every time I join a ne
 
 #### Problem Solving
 
-The work of an Architect is mostly based on solving problems through design, both technical and conceptual.  To approach a problem, I break it down to smaller part and analyse its key factors, make the appropriate research, then built a solution and validate it via a test.
+The work of an Architect is mostly based on solving problems through design, both technical and conceptual. To approach a problem, I break it down to smaller part and analyse its key factors, make the appropriate research, then built a solution and validate it via a test.
 
 #### Reliable and responsible
 
-Both at work and at University I always focused in completing my tasks in time without the need of supervision. 
-At Aros, I have always been trusted in attending metting with clients and other consultants indipendently. Part of my tasks were understanding clients requirements, effectively comunicating risks, coordinating structural, mechanical and architectural design with other consultants to achieve the client objectives. Active listening, clear comunication and deliver in time were key factors to allow everyone to do their work. 
+Both at work and at University I always focused on completing my tasks in time without the need for supervision. 
+At Aros, I have always been trusted in attending meetings with clients and other consultants independently. My tasks were understanding clients requirements, effectively communicating risks, coordinating structural, mechanical and architectural design with other consultants to achieve the client objectives. Active listening, clear communication and deliver in time were key factors to allow everyone to do their work. 
 
 #### Determination
 
-Self-growth is a very important part of my personality. Nothing is impossible, with time and commitment everything can be achieved.
+Self-growth is a very important part of my personality. Nothing is impossible, with time and effort everything can be achieved.
 
 ## Work Experience
 
