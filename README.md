@@ -34,11 +34,11 @@
 
 ## About me
 
-I am a Software Developer who has graduated at Makers Academy - 12 weeks software development Bootcamp. I previously worked as a fully qualified Architect for different firms in London and Italy.
+I am a Software Developer who has graduated from Makers Academy - 12 weeks software development Bootcamp. I previously worked as a fully qualified Architect for different firms in London and Italy.
 
-After years studying and working in Architecture, I felt the need to work on something that has a more direct impact on the user life. The way the user experience the space is the more important part of designing a building but I felt the desire to go deeper and create products that help to solve peoples doing their work, that empowers them, proving better e more reliable services. 
+After years studying and working in Architecture, I felt the desire to work on something that has a more direct impact on the user life. The most important part of designing a building is the way the user experiences the space so I felt the desire to go deeper and create products that help peoples doing their work, that empowers them, providing better and more reliable services. 
 
-I have always been passionate about tech and the way it is changing our life really excites me. So I started coding and immediately got a lot of satisfaction from it. Logic, quick feedback, stack trace to find my way through the bug and infinite possibilities of what I could have created for the users with it. All these convinced me that tech is the way to go to help peoples build a better world and realise my wish.
+I have always been passionate about tech, the way it is changing our life really excites me. So I started coding and immediately got a lot of satisfaction from it. Logic, quick feedback, stack trace to find my way through the bug and infinite possibilities of what I could have created for the users with it. All these factors convinced me that tech is the way to go to help people build a better world and so realise my wish.
 
 ## Skills
 
