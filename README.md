@@ -97,7 +97,7 @@ Responsibilities:
 * Giving and receiving feedback using code reviews and open/respectful communication.
 * Understand project requirements, create user stories, define MVP's features, break features in smaller tasks to easily accomplish them.
 * Collaborate with the other team members using GitHub as version control tools and using CI/CD to reduce integration risk.
-* Coding following principles like TDD and S.O.L.I.D of OOP to create clear, simple code and well-tested applications.
+* Coding following principles like TDD and S.O.L.I.D of OOP design pattern to create clear, simple code and well-tested applications.
 
 
 #### University of Cagliari / School of Architecture ( 09.2006 - 07.2012 )
