@@ -79,7 +79,7 @@ Self-growth is a very important part of my personality. Nothing is impossible, w
 * Wide use of BIM ( Building Information Modelling ) from early stages to construction. 
 * Active communication with clients, project manager, consultants and specialist designer to achieve high-quality design’s objectives.
 * Reseach and selection of high quality products to meet company design standard, building regulations and client expectations. 
-* Onboard junior team members to company's standards and procedures, helping them in approaching new softwares and manage time effectively.
+* Onboard junior architects, helping them to approaching new softwares and to understand company's standards and procedures.
 
 **Southstudio Architects** (October 2015 - March 2016)   
 *Architect Assistant* 
