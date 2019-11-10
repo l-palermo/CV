@@ -73,7 +73,7 @@ Self-growth is a very important part of my personality. Nothing is impossible, w
 
 ## Work Experience
 
-**Aros Architects** (October 2016 - March 2019)    
+**Aros Architects** ( 10.2016 - 03.2019) - London, UK 
 *Project Architect*
 * Leading projects through all phases, from feasibility study to construction in accordance with a variety of regulation and standards.
 * Wide use of BIM ( Building Information Modelling ) from early stages to construction. 
@@ -81,23 +81,23 @@ Self-growth is a very important part of my personality. Nothing is impossible, w
 * Reseach and selection of high quality products to meet company design standard, building regulations and client expectations. 
 * Onboard junior architects, helping them to approaching new softwares and to understand company's standards and procedures.
 
-**Southstudio Architects** (October 2015 - March 2016)   
+**Southstudio Architects** ( 10.2015 - 03.2016) - London, UK
 *Architect Assistant* 
 * Provide accurate and timely design services. 
 * Manage priorities and work productively to deliver on time. 
 * Work independently to produce highly accurate drawings, 3D models, CGI images for clients.
 * Demonstrate excellent initiative, teamwork, and problem-solving skills.
 
-**Ing. Filippo Gurrieri** ( February 2013 - April 2015 ) - Cagliari, Italy
+**Ing. Filippo Gurrieri** ( 02.2013 - 04.2015 ) - Cagliari, Italy
 **Architect Assistant**
 
 Please, see below my previous personal and professional portfolios
-* <a href="https://www.yumpu.com/xx/document/read/62787227/luigi-palermo-portfolio-a3-nl-pdf">Personal projects</a>
+* <a href="https://www.yumpu.com/xx/document/read/62787227/luigi-palermo-portfolio-a3-nl-pdf">Personal Projects</a>
 * <a href="https://www.yumpu.com/en/document/read/62788531/luigi-palermo-professional-portfoio-a3">Professional Projects</a>
 
 ## Education
 
-#### Makers Academy (29.04.2019 - 16.08.2019)
+**Makers Academy** (  29.04.2019 - 16.08.2019) - London, UK
 
 At Makers, I have studied computer science and metaprogramming principles along with hands-on coding, working on mobile, web and desktop applications using Ruby and Javascript.
 
@@ -111,7 +111,7 @@ Responsibilities:
 * Coding following principles like TDD and S.O.L.I.D of OOP design pattern to create clear, simple code and well-tested applications.
 
 
-#### University of Cagliari / School of Architecture ( 09.2006 - 07.2012 )
+**University of Cagliari / School of Architecture** ( 09.2006 - 07.2012 ) - Cagliari, Italy
 
 - Architecture, design & technology in a rural and urban environment, rennovations of existing building, newly built and listed building.
 - Grade: first class honors
