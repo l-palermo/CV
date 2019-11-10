@@ -37,7 +37,7 @@
 I am a Software Developer who has graduated from Makers Academy that is a software development Bootcamp. 
 I previously worked as a fully qualified Architect for different firms in London and Italy.
 
-After years studying and working in Architecture, I felt the desire to work on something that has a more direct impact on the user life. The most important part of designing a building is the way the user experiences the space but I felt the desire to go deeper. I want to create products that change peoples life, help them doing their work, empower them and provide better and more reliable services.
+After years studying and working in Architecture, I felt the desire to work on something that has a more direct impact on the user life. The most important part of designing a building is the way the user experiences the space but I felt the desire to go deeper. I want to create products that change people's lives, help them do their work, empower them and provide better and more reliable services.
 
 I have always been passionate about tech, the way it is changing our life really excites me. So I started coding and immediately got a lot of satisfaction from it. Logic, quick feedback, stack trace to find my way through the bug and infinite possibilities of what I could have created for the users with it. All these factors convinced me that tech is the way to go to help people build a better world and so realise my wish.
 
@@ -51,11 +51,11 @@ When I worked at Aros Architects, I was instructed to be the project architect o
 
 Please see below link to the land developer website.
 
-* http://lanternmaidenhead.com/bright-thinking-gallery/
+* <a href="http://lanternmaidenhead.com/bright-thinking-gallery/"> Link </a>
 
 #### Great collaborator  
 
-Teamwork is an essential part of working in Architecture. Every time I join a new team, I listen actively other team members' expectations, ideas and what they need to accomplish to give them better support when needed. I take ownership of my tasks and complete them in time and participate actively to help the team reaching its goals. I always value open and friendly communication.
+Teamwork is an essential part to reach great achievements. Every time I join a new team, I listen actively other team members' expectations, ideas and what they need to accomplish so I have all the information to best contribute. I take ownership of my tasks and complete them in time and participate actively to help the team reaching its goals. I always value open and friendly communication.
 
 
 #### Problem Solving
@@ -64,8 +64,8 @@ The work of an Architect is mostly based on solving problems through design, bot
 
 #### Reliable and responsible
 
-Both at work and at University I always focused on completing my tasks in time without the need for supervision. 
-At Aros, I have always been trusted in attending meetings with clients and other consultants independently. My tasks were understanding clients requirements, effectively communicating risks, coordinating structural, mechanical and architectural design with other consultants to achieve the client objectives. Active listening, clear communication and deliver in time were key factors to allow everyone to do their work. 
+I always focus on completing my tasks in time without the need for supervision. 
+At Aros, I quickly gained trust so I was attending meetings with clients and other consultants independently. My tasks were understanding clients requirements, effectively communicating risks, coordinating structural, mechanical and architectural design with other consultants to achieve the client objectives.
 
 #### Determination
 
@@ -78,8 +78,8 @@ Self-growth is a very important part of my personality. Nothing is impossible, w
 * Leading projects through all phases, from feasibility study to construction in accordance with a variety of regulation and standards.
 * Wide use of BIM ( Building Information Modelling ) from early stages to construction. 
 * Active communication with clients, project manager, consultants and specialist designer to achieve high-quality design’s objectives.
-* Reseach and selection of high quality products to meet company design standard, building regulations and client expectations. 
-* Onboard junior architects, helping them to approaching new softwares and to understand company's standards and procedures.
+* Reseach and selection of high-quality products to meet company design standard, building regulations and client expectations. 
+* Onboard junior architects, helping them to approach new software and to understand company's standards and procedures.
 
 **Southstudio Architects** ( 10.2015 - 03.2016) - London, UK
 *Architect Assistant* 
