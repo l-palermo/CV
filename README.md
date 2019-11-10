@@ -24,7 +24,7 @@
 </div>
 
 ## Projects
-| Title | Description | Development Timeframe | Technologies | Test Suites CIs/CDs | The code |
+| Title | Description | Development Timeframe | Technologies | Test Suites CI/CD | Repo |
 |--|--|--|--|--|--|
 |<a href="https://it-is-always-soup.firebaseapp.com/">It Is Always Soup</a> | The final team project for Makers. A tool to help a user find recipes from leftovers in the fridge. Our goal - make sure it's not always soup | 2 weeks | React, React-Bootstrap |  Jest, Enzyme, Puppeteer, Firebase | <a href='https://github.com/ajosephides/i.i.a.s'>Github</a>|
 |<a href="https://acebook-data-thieves.herokuapp.com/">Acebook on Rails</a> | Team project. A replica of Facebook that is linked to a database and can store accounts | 2 weeks | Ruby on Rails, ActiveRecord, PostgreSQL, HTML, CSS| Capybara, RSpec, Travis, CodeClimate, Heroku | <a href='https://github.com/l-palermo/Acebook---Data-Thieves'>Github</a>|
