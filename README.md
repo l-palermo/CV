@@ -34,9 +34,10 @@
 
 ## About me
 
-I am a Software Developer who has graduated from Makers Academy - 12 weeks software development Bootcamp. I previously worked as a fully qualified Architect for different firms in London and Italy.
+I am a Software Developer who has graduated from Makers Academy that is a software development Bootcamp. 
+I previously worked as a fully qualified Architect for different firms in London and Italy.
 
-After years studying and working in Architecture, I felt the desire to work on something that has a more direct impact on the user life. The most important part of designing a building is the way the user experiences the space so I felt the desire to go deeper and create products that help peoples doing their work, that empowers them, providing better and more reliable services. 
+After years studying and working in Architecture, I felt the desire to work on something that has a more direct impact on the user life. The most important part of designing a building is the way the user experiences the space but I felt the desire to go deeper. I want to create products that change peoples life, help them doing their work, empower them and provide better and more reliable services.
 
 I have always been passionate about tech, the way it is changing our life really excites me. So I started coding and immediately got a lot of satisfaction from it. Logic, quick feedback, stack trace to find my way through the bug and infinite possibilities of what I could have created for the users with it. All these factors convinced me that tech is the way to go to help people build a better world and so realise my wish.
 
@@ -74,15 +75,25 @@ Self-growth is a very important part of my personality. Nothing is impossible, w
 
 **Aros Architects** (October 2016 - March 2019)    
 *Project Architect*
-Leading projects through all phases, from feasibility study to construction in accordance with a variety of regulation and standards.Wide use of BIM ( Building Information Modelling ) from early stages to construction. Active communication with clients, project manager, consultants and specialist designer to achieve high-quality design’s objectives.
+* Leading projects through all phases, from feasibility study to construction in accordance with a variety of regulation and standards.
+* Wide use of BIM ( Building Information Modelling ) from early stages to construction. 
+* Active communication with clients, project manager, consultants and specialist designer to achieve high-quality design’s objectives.
+* Reseach and selection of high quality products to meet company design standard, building regulations and client expectations. 
+* Onboard junior team members to company's standards and procedures, helping them in approaching new softwares and manage time effectively.
 
 **Southstudio Architects** (October 2015 - March 2016)   
 *Architect Assistant* 
-Provide accurate and timely design services. Manage priorities and work productively to deliver on time. Work independently. Produce highly accurate drawings, 3D models, CGI images for clients. Demonstrate excellent initiative, teamwork, and problem-solving skills.
+* Provide accurate and timely design services. 
+* Manage priorities and work productively to deliver on time. 
+* Work independently to produce highly accurate drawings, 3D models, CGI images for clients.
+* Demonstrate excellent initiative, teamwork, and problem-solving skills.
+
+**Ing. Filippo Gurrieri** ( February 2013 - April 2015 ) - Cagliari, Italy
+**Architect Assistant**
 
 Please, see below my previous personal and professional portfolios
-* https://www.yumpu.com/xx/document/read/62787227/luigi-palermo-portfolio-a3-nl-pdf
-* https://www.yumpu.com/en/document/read/62788531/luigi-palermo-professional-portfoio-a3
+* <a href="https://www.yumpu.com/xx/document/read/62787227/luigi-palermo-portfolio-a3-nl-pdf">Personal projects</a>
+* <a href="https://www.yumpu.com/en/document/read/62788531/luigi-palermo-professional-portfoio-a3">Professional Projects</a>
 
 ## Education
 
@@ -103,10 +114,10 @@ Responsibilities:
 #### University of Cagliari / School of Architecture ( 09.2006 - 07.2012 )
 
 - Architecture, design & technology in a rural and urban environment, rennovations of existing building, newly built and listed building.
-- Grade: 110/110
+- Grade: first class honors
 - Architect Part III Qualification. ARB registered 090290J
 
 ## Tech
 
-* **Java**  •  **JavaScript**  •  **React**  •  **Node.JS**  •  **Ruby**  •  **Rails**  •  **PostgreSQL**
-* **JUnit**  •  **Mockito**  •  **RSpec**  •  **Jasmine**  •  **Capybara**  •  **Jest**  •  **Puppeteer**
+* Languages and web frameworks:  **Java**,  **JavaScript**,  **React**,  **Node.JS**,  **Ruby**,  **Rails**,  **PostgreSQL**
+* Databases and test framework:  **JUnit**,  **Mockito**,  **RSpec**,  **Jasmine**,  **Capybara**,  **Jest**,  **Puppeteer**
