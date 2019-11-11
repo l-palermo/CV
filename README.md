@@ -74,7 +74,7 @@ Self-growth is a very important part of my personality. Nothing is impossible, w
 
 **Aros Architects** ( 10.2016 - 03.2019) - London, UK 
 *Project Architect*
-* Leading projects through all phases, from feasibility study to construction in accordance with a variety of regulation and standards.
+* Leading projects through all stages, from feasibility study to construction in accordance with a variety of regulation and standards.
 * Wide use of BIM ( Building Information Modelling ) from early stages to construction. 
 * Active communication with clients, project manager, consultants and specialist designer to achieve high-quality design’s objectives.
 * Reseach and selection of high-quality products to meet company design standard, building regulations and client expectations. 
