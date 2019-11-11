@@ -54,7 +54,7 @@ Please see below link to the land developer website.
 
 #### Great collaborator  
 
-Teamwork is an essential part to reach great achievements. Every time I join a new team, I listen actively other team members' expectations, ideas and what they need to accomplish so I have all the information to best contribute. I take ownership of my tasks and complete them in time and participate actively to help the team reaching its goals. I always value open and friendly communication.
+Teamwork is an essential part of working in Architecture. Every time I join a new team, I listen actively to other team's members' expectations, ideas and what they need to accomplish so I can effectively contribute to the team's objectives. I take ownership of my tasks and participate actively to help the team reaching its goals. I always value open and friendly communication.
 
 
 #### Problem Solving
@@ -78,7 +78,7 @@ Self-growth is a very important part of my personality. Nothing is impossible, w
 * Wide use of BIM ( Building Information Modelling ) from early stages to construction. 
 * Active communication with clients, project manager, consultants and specialist designer to achieve high-quality design’s objectives.
 * Reseach and selection of high-quality products to meet company design standard, building regulations and client expectations. 
-* Onboard junior architects, helping them to approach new software and to understand company's standards and procedures.
+* Onboarding junior architects, helping them to approach new software and to understand company's standards and procedures.
 
 **Southstudio Architects** ( 10.2015 - 03.2016) - London, UK
 *Architect Assistant* 
