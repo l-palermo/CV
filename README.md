@@ -34,12 +34,11 @@
 
 ## About me
 
-I am a Software Developer who has graduated from Makers Academy that is a software development Bootcamp. 
-I previously worked as a fully qualified Architect for different firms in London and Italy.
+I am a Software Developer recently graduated from Makers Academy and I have previously worked as Architect for different firms in London and Italy.
 
-After years studying and working in Architecture, I felt the desire to work on something that has a more direct impact on the user life. The most important part of designing a building is the way the user experiences the space but I felt the desire to go deeper. I want to create products that change people's lives, help them do their work, empower them and provide better and more reliable services.
+After years studying and working in Architecture, I felt the desire to work on something that has a stronger impact on the user's life. Even if one of the most important tasks of designing a building is to decide how the user experiences the space, I felt the desire to go deeper. I wanted to create products that change people's lives, help them do their work, empower them providing better and more reliable services.
 
-I have always been passionate about tech, the way it is changing our life really excites me. So I started coding and immediately got a lot of satisfaction from it. Logic, quick feedback, stack trace to find my way through the bug and infinite possibilities of what I could have created for the users with it. All these factors convinced me that tech is the way to go to help people build a better world and so realise my wish.
+I have always been passionate about tech. The way it is changing our lives really excites me so I started coding and immediately got a lot of satisfaction from it. Logic, quick feedback, stack trace to find my way to the bug and infinite possibilities of what I could have created for the users with it. All these factors convinced me that tech is the way to go to help people build a better world and so realise my wish.
 
 ## Skills
 
